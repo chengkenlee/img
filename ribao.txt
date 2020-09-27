@@ -1,0 +1,23 @@
+2020.02.17
+
+测试bitus app 功能, 主要还是配合开发交互测融资和私密订单方面的
+
+
+
+
+
+;
+
+更新内容:
+1. 修改提现验证码在触发安全机制时不显示问题
+2. 首页增加公告jjgu
+
+
+登录入口服
+hd-entry	116.62.220.121	私有/公有	root	hdRMK@ali#46	65222
+uhsajhjklsnid e shijainnide 
+命令:跳转到正式服hdpool1
+tranSSH hdpool1
+执行拉取更新
+cd /data/
+sh fetch-upgrade.sh 1
